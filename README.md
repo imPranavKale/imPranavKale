@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I am Pranav Kale! 👋
 
-<!--
-**imPranavKale/imPranavKale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer from Pune, India.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Angular and ngrx.
+- 🌱 I’m currently learning React.
+- 💬 Ask me about Javascript, HTML, css, Vue, Angular.
+- 📫 How to reach me: [![Twitter]][1], [![LinkedIn][3.2]][3]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<!-- Icon sets -->
+[1.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png (Twitter)
+
+
+<!-- profile links -->
+[1]: https://twitter.com/PranavSKale
