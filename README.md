@@ -10,6 +10,12 @@ I am a software developer from Pune, India.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡ Github Stats
+
+![Pranav Kale's Github Stats](https://github-readme-stats.vercel.app/api?username=imPranavKale&theme=dark)
+
+
 <p align='center'>
   <a href="https://twitter.com/PranavSKale"><img height="30" src="https://github.com/imPranavKale/imPranavKale/blob/main/icons/twitter.png?raw=true"></a>
 </p>
